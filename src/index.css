@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+
+@utility container{
+ @apply p-4;
+}
