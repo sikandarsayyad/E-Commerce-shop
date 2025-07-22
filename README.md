@@ -44,9 +44,8 @@ cd E-Commerce-shop
 
 2. **Install dependencies**
 
+
 bash
-Copy
-Edit
 npm install
 # or
 yarn install
@@ -54,8 +53,6 @@ yarn install
 3. **Start the development server**
 
 bash
-Copy
-Edit
 npm run dev
 # or
 yarn dev
