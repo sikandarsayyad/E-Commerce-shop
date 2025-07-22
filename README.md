@@ -8,7 +8,6 @@ The website showcases a product catalog with shopping cart functionality, animat
 ## 🚀 Features
 
 - Responsive design for desktop & mobile
-- ScrollReveal entry animations
 - Tailwind CSS utility-first design
 - React Router-based navigation
 - Shopping cart with context API
@@ -22,7 +21,6 @@ The website showcases a product catalog with shopping cart functionality, animat
 - Tailwind CSS
 - JavaScript (ES6+)
 - React Router DOM
-- ScrollReveal.js
 - Netlify
 
 ---
@@ -43,3 +41,25 @@ The website showcases a product catalog with shopping cart functionality, animat
 ```bash
 git clone https://github.com/sikandarsayyad/E-Commerce-shop.git
 cd E-Commerce-shop
+
+2. **Install dependencies**
+
+bash
+Copy
+Edit
+npm install
+# or
+yarn install
+
+3. **Start the development server**
+
+bash
+Copy
+Edit
+npm run dev
+# or
+yarn dev
+
+4. **Open the app in your browser**
+
+http://localhost:5173
